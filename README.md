@@ -1,5 +1,5 @@
 # Todo API Using Flask_RestPlus
-![Flask RESTplus Example API](https://raw.githubusercontent.com/range123/Todo-API/master/docs/static/Screenshot1.png)
+![Flask RESTplus Example API](https://imgur.com/ImnxVon)
 (https://raw.githubusercontent.com/range123/Todo-API/master/docs/static/Screenshot2.png)
 
 ## Usage
@@ -12,3 +12,4 @@ $ python createdb.py
 ```
 $ python api.py
 ```
+* Visit http://127.0.0.1:5000 in your browser
