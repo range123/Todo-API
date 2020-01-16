@@ -1,6 +1,6 @@
 # Todo API Using Flask_RestPlus
-![Flask RESTplus Example API](https://imgur.com/ImnxVon)
-(https://raw.githubusercontent.com/range123/Todo-API/master/docs/static/Screenshot2.png)
+![Flask RESTplus Example API](./docs/static/Screnshot1.png)
+![](./docs/static/Screnshot2.png)
 
 ## Usage
 * Clone the repository
