@@ -7,7 +7,7 @@
 * Clone the repository
 * Create DB with required schema
 ```
-$ python createdb.py
+$ python create_db.py
 ```
 * Run the API
 ```
