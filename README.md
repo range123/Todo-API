@@ -1,6 +1,7 @@
 # Todo API Using Flask_RestPlus
-![Flask RESTplus Example API](./docs/static/Screnshot1.png)
-![](./docs/static/Screnshot2.png)
+## Screenshots of docs generated
+![Todo](./docs/static/Screnshot1.png?raw=true)
+![Auth](./docs/static/Screnshot2.png?raw=true)
 
 ## Usage
 * Clone the repository
