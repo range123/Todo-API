@@ -14,3 +14,5 @@ $ python create_db.py
 $ python api.py
 ```
 * Visit http://127.0.0.1:5000 in your browser
+
+![Usage](https://raw.githubusercontent.com/range123/markdown-cheatsheet/master/Todo.gif)
