@@ -75,7 +75,7 @@ class TodoDAO(object):
     def get(self, id):
         conn = sqlite3.connect('Todo.db')
         cur = conn.cursor()
-        cur.execute('select * from Todo where id=?',str(id))
+        cur.execute('select * from Todo where id=?',[str(id)])
         x = cur.fetchone()
         try:
             ans = {}
@@ -122,7 +122,7 @@ class TodoDAO(object):
     def delete(self, id):
         conn = sqlite3.connect('Todo.db')
         cur = conn.cursor()
-        cur.execute('delete from Todo where id=?',str(id))
+        cur.execute('delete from Todo where id=?',[str(id)])
         conn.commit()
     
     def getall(self):
